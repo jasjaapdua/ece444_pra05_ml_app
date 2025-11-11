@@ -4,3 +4,4 @@ scikit-learn
 numpy
 requests
 boto3
+pytest
